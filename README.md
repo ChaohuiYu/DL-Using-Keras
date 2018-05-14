@@ -10,7 +10,7 @@
 	jupyter notebook
 
 ## Install TensorFlow and Keras
-[link]<https://medium.com/@yenlung/%E5%9C%A8-mac-%E4%B8%8A%E8%A3%9D-deep-learning-%E5%AD%B8%E7%BF%92%E5%A5%97%E4%BB%B6-7fb73e16c437>
+[link](https://medium.com/@yenlung/%E5%9C%A8-mac-%E4%B8%8A%E8%A3%9D-deep-learning-%E5%AD%B8%E7%BF%92%E5%A5%97%E4%BB%B6-7fb73e16c437)
 
 ## Summary
 - A dense layer is a classic fully connected neural network layer : each input node is connected to each output node.
